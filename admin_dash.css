@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: aquamarine;
+}
+
+nav .container-fluid a{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.heading{
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading p:hover{
+  color: rgb(255, 255, 255);
+} 
+
+hr{
+    color: aquamarine;
+}
+
+.motto{
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  margin-bottom: 20px;
+}
+
+
+.motto:hover{
+  color: rgb(0, 0, 0);
+  background-color: aquamarine;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.motto p{
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+    padding: 20px;
+  }
+  
+  footer .heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+  }
+
+  footer .heading p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aquamarine;
+  }
+
+  footer .buttons {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .button button{
+    margin: 5px;
+    background-color: transparent;
+    color: aquamarine;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+  }
+
+  .button button:hover{
+    margin: 5px;
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+  }
+
+  footer .credit{
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 0;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 5px;
+  }

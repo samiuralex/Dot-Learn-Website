@@ -1,0 +1,19 @@
+nav .container-fluid a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .heading{
+      text-align: center;
+      margin: auto;
+      padding-top: 10px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .heading p:hover{
+    color: rgb(255, 255, 255);
+  } 
+  
+  hr{
+      color: aquamarine;
+  }
+  
+  
